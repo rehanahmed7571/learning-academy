@@ -1,0 +1,8 @@
+.single-course{
+    border:  1px solid red;
+    padding:  20px;
+    margin: 20px;
+    box-sizing: border-box;
+    width: 45%;
+ 
+}
